@@ -7,7 +7,7 @@ date: "December 14, 2016"
 
 # Project Pitch Deck
 
-**[Click here](hhttp://rpubs.com/genesis1379/235164)** to view the completed data application hosted on ShinyApps.
+**[Click here](http://rpubs.com/genesis1379/235164)** to view the completed data application hosted on ShinyApps.
 
 # "What's in Your Food?" App
 
