@@ -7,8 +7,8 @@ date: "December 14, 2016"
 
 # Project Pitch Deck
 
-**[Click here](https://github.com/genesis1379/Developing-Data-Product)** to view the completed data application hosted on ShinyApps.
+**[Click here](hhttp://rpubs.com/genesis1379/235164)** to view the completed data application hosted on ShinyApps.
 
 # "What's in Your Food?" App
 
-**[Click here](https://github.com/genesis1379/Developing-Data-Product)** to view the completed data application hosted on ShinyApps.
+**[Click here](https://genesis1379.shinyapps.io/MtCars/)** to view the completed data application hosted on ShinyApps.
