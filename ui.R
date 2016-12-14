@@ -7,6 +7,9 @@ shinyUI (
         fluidPage (
                 title = "Linear Regression of Miles per gallon against automobile predictors in R",
                 h1("Linear Regression of Miles per gallon against automobile predictors in R"),
+                tags$hr(), 
+                p(a("(Github Source Code)", href = "https://github.com/genesis1379/Developing-Data-Product"),
+                  align = "left"),
                 fluidRow (
                         column (
                                 5,
@@ -72,6 +75,11 @@ shinyUI (
                                 3,
                                 plotOutput('plot3')
                         )
+                       
                 )
+               
         )
+        
+
+        
 )
